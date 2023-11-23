@@ -43,7 +43,7 @@ math.html
 <style type="text/css">
 body 
 {
-background-color:red;
+background-color:aqua;
 }
 .edge {
 width: 1440px;
@@ -54,14 +54,14 @@ padding-left: 300px;
 }
 .box {
 display:block;
-border: Thick dashed lime;
+border: Thick dashed cyan;
 width: 500px;
 min-height: 300px;
 font-size: 20px;
-background-color:blue;
+background-color:greenyellow;
 }
 .formelt{
-color:orange;
+color:lightsalmon;
 text-align: center;
 margin-top: 7px;
 margin-bottom: 6px;
@@ -134,12 +134,12 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![Alt text](<side process server.png>)
 
+![Alt text](sideprocessing.png)
 
 ## HOMEPAGE:
-![Alt text](<prism 1.png>)
 
+![Alt text](squareprism.png)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
